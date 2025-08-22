@@ -34,4 +34,4 @@ Seed creates:
 - bob / bob123
 - charlie / charlie123
 
-> Tip: For iPhone physical device, run server on your laptop and expose with a tunnel (eg. ngrok), then set `SERVER_URL` to the tunnel URL.
+
