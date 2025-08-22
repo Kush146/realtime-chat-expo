@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Chat MVP",
+    "slug": "chat-mvp",
+    "scheme": "chatmvp",
+    "platforms": ["ios"],
+    "ios": { "supportsTablet": true },
+    "orientation": "portrait",
+    "splash": { "image": "./assets/splash.png", "resizeMode": "contain", "backgroundColor": "#ffffff" },
+    "assetBundlePatterns": ["**/*"]
+  }
+}
