@@ -34,4 +34,13 @@ Seed creates:
 - bob / bob123
 - charlie / charlie123
 
+## Screenshots
+
+<p align="center">
+  <img src="docs/screens/login-ios.png" alt="Login" width="300" />
+  <img src="docs/screens/home-ios.png" alt="Home" width="300" />
+  <img src="docs/screens/chat-ios.png" alt="Chat" width="300" />
+</p>
+
+
 
