@@ -8,11 +8,12 @@
     "ios": "expo start --ios"
   },
   "dependencies": {
-    "@react-native-async-storage/async-storage": "1.23.1",
+    "@expo/metro-runtime": "~5.0.4",
+    "@react-native-async-storage/async-storage": "2.1.2",
     "@react-navigation/native": "^6.1.9",
     "@react-navigation/native-stack": "^6.9.20",
     "axios": "^1.7.2",
-    "expo": "~53.0.20",
+    "expo": "53.0.22",
     "expo-status-bar": "^2.2.3",
     "react": "19.0.0",
     "react-native": "0.79.5",
@@ -20,5 +21,7 @@
     "react-native-screens": "4.11.1",
     "socket.io-client": "^4.7.5"
   },
-  "expo": "~53.0.20"
+  "expo": "~53.0.22",
+  "react": "18.2.0",
+  "react-native": "0.74.5"
 }

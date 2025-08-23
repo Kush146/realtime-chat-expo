@@ -3,9 +3,7 @@
     "name": "Chat MVP",
     "slug": "chat-mvp",
     "scheme": "chatmvp",
-
-    "platforms": ["ios", "android", "web"],
-
+    "platforms": ["ios", "android"],
     "ios": {
       "bundleIdentifier": "com.dracula90.chatapp",
       "supportsTablet": true
@@ -13,7 +11,6 @@
     "android": {
       "package": "com.dracula90.chatapp"
     },
-
     "orientation": "portrait",
     "splash": {
       "image": "./assets/splash.png",
