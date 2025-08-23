@@ -17,7 +17,7 @@
     "android": {
       "package": "com.dracula90.chatapp",
       "adaptiveIcon": {
-        "foregroundImage": "./assets/app_icon.png",
+        "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#0f1220"
       }
     },
