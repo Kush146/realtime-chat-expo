@@ -3,7 +3,10 @@
     "name": "Chat MVP",
     "slug": "chat-mvp",
     "scheme": "chatmvp",
-    "platforms": ["ios", "android"],
+    "platforms": [
+      "ios",
+      "android"
+    ],
     "ios": {
       "bundleIdentifier": "com.dracula90.chatapp",
       "supportsTablet": true
@@ -12,11 +15,14 @@
       "package": "com.dracula90.chatapp"
     },
     "orientation": "portrait",
-    "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
-    },
-    "assetBundlePatterns": ["**/*"]
+   
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "29f2193f-3e39-468b-a538-aae7b63eb1f1"
+      }
+    }
   }
 }
