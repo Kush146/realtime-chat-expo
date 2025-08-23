@@ -3,10 +3,23 @@
     "name": "Chat MVP",
     "slug": "chat-mvp",
     "scheme": "chatmvp",
-    "platforms": ["ios"],
-    "ios": { "supportsTablet": true },
+
+    "platforms": ["ios", "android", "web"],
+
+    "ios": {
+      "bundleIdentifier": "com.dracula90.chatapp",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.dracula90.chatapp"
+    },
+
     "orientation": "portrait",
-    "splash": { "image": "./assets/splash.png", "resizeMode": "contain", "backgroundColor": "#ffffff" },
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
     "assetBundlePatterns": ["**/*"]
   }
 }
